@@ -24,3 +24,9 @@ Através deste repositório, estou explorando seus principais conceitos, como:
 
 Os arquivos estão organizados em pastas por tema ou aula.
 
+---
+
+### 🛠️
+
+Use o GCC para compilar os arquivos:
+gcc exemplo.c -o exemplo
