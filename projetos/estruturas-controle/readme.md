@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 💻 Estudos em Linguagem C
 
 Este repositório foi criado para organizar e compartilhar meu progresso nos estudos da linguagem C. 
@@ -122,4 +122,3 @@ A resposta é seguida por uma quebra de linha.
 ---
 
 📌 **Observação:** Esses exercícios reforçam a lógica condicional em C e são ideais para iniciantes que desejam dominar o controle de fluxo.
->>>>>>> ce28218 (Adicionando Exercicios de estruturas de controle)
