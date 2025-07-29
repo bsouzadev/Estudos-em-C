@@ -17,6 +17,7 @@ Através deste repositório, estou explorando seus principais conceitos, como:
 - Structs
 - Alocação dinâmica de memória
 - Manipulação de arquivos
+- Laço de repetiçoes
 
 ---
 
